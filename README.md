@@ -48,8 +48,116 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+# IMAGE 1 – Cat Portrait
+
+Original Image Description
+
+The image contains a fluffy orange cat sitting indoors near a window with warm sunlight falling on its fur. The background is softly blurred, creating a portrait-style composition.
+
+# Step 1: Basic Prompt
+
+“An orange cat sitting near a window.”
+
+# output
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/3bd39cb5-05fc-41bc-8041-e0e5c412415b" />
+
+
+
+# Step 2: Refined Prompt
+
+“A fluffy orange cat sitting beside a window with warm sunlight on its fur and a blurred indoor background.”
+
+# output
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/0ab21278-4a0b-4d85-88e9-29d6154d2395" />
+
+# Generated Image Observation
+
+ The generated image successfully reproduced:
+
+Fur texture
+
+Warm indoor lighting
+
+Portrait composition
+
+Soft background blur
+
+Differences Observed
+
+Eye color differed slightly.
+
+Window frame details were not identical.
+
+Fur appeared smoother than the original image.
+
+Prompt Refinement Performed
+
+
+
+Words like “highly detailed whiskers,” “golden sunlight,” and “cinematic lighting” improved realism and texture quality.
+Additional terms such as “soft lighting,” “realistic photography style,” and “reflective river” were added to improve accuracy.
+
+# IMAGE 2 – Sunset Mountain Landscape
+
+Original Image Description
+
+The image shows a peaceful natural landscape with purple mountains in the background, a calm river flowing through the valley, orange and pink sunset lighting, and trees along the riverbank. The atmosphere is calm and artistic.
+
+# Step 1: Basic Prompt
+
+“A serene landscape with mountains and a river.”
+
+# output
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/4bf536b1-121d-4499-954d-184fdd0577f1" />
+
+
+# Step 2: Refined Prompt
+
+“A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and trees along the shore.”
+
+# output
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/b54072a5-2efa-4032-9800-ed71cb6d593e" />
+
+# Generated Image Observation
+
+The generated image closely matched the original landscape in terms of:
+
+Mountain placement
+
+Sunset colors
+
+Reflection in water
+
+Overall peaceful mood
+
+Differences Observed
+
+Tree density was slightly different.
+
+Cloud patterns varied from the original.
+
+Lighting intensity was brighter in the generated image.
+
+Prompt Refinement Performed
+
+
+Additional terms such as “soft lighting,” “realistic photography style,” and “reflective river” were added to improve accuracy.
+
+# Comparison Report
+
+| Feature     | Original Image                | Generated Image     | Similarity |
+| ----------- | ----------------------------- | ------------------- | ---------- |
+| Colors      | Warm sunset and natural tones | Closely matched     | High       |
+| Composition | Center-focused subjects       | Similar arrangement | High       |
+| Lighting    | Soft natural light            | Slightly brighter   | Medium     |
+| Texture     | Realistic details             | Smooth AI rendering | Medium     |
+| Style       | Realistic photography         | Realistic AI art    | High       |
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
